@@ -1,2 +1,2 @@
-# JavaGames
-Games I made with Java
+# JavaProjects
+Projects I made with Java
