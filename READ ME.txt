@@ -1,0 +1,10 @@
+This GitHub Project contains all of the games I have built with Java.
+
+To access the code to a game:
+1. Click on the game's folder
+2. Click on "Code"
+3. Click on "src"
+
+To access the game itself:
+1. Click on the game's folder
+2. Click on "Game.zip" or any .jar/.exe file
